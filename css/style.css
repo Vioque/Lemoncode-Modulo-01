@@ -1,0 +1,22 @@
+div.data {
+    text-align: left;
+    margin-left: 400px;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    display: grid;
+    width: 400px;
+    : 30px;
+
+}
+
+.img {
+    margin-left: 0;
+    text-align: center;
+}
+
+.button {
+    margin-top: 30px;
+    margin-left: 400px;
+    color: darkgoldenrod;
+}
